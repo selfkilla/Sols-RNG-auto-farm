@@ -1,4 +1,4 @@
-# RNG
+# Sols RNG autofarm bot
 Sols RNG autofarm bot
 ![image](https://github.com/user-attachments/assets/8eda7de1-9aa9-47c4-924d-8e9e80bd3af1)
 
