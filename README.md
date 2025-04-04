@@ -1,10 +1,13 @@
-# Sols RNG autofarm bot
-Sols RNG autofarm bot
-![image](https://github.com/user-attachments/assets/8eda7de1-9aa9-47c4-924d-8e9e80bd3af1)
-
-Only WhiteList to use 
-discord - https://discord.com/invite/8CdFeeSG2D
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/selfkilla/RNG/main/loader.lua"))()
-
-Last Version 1.1
+204.12.192.222 api.spotify.com
+204.12.192.222 xpui.app.spotify.com
+204.12.192.222 appresolve.spotify.com
+204.12.192.222 login5.spotify.com
+204.12.192.222 login.app.spotify.com
+204.12.192.222 encore.scdn.co
+204.12.192.222 ap-gew1.spotify.com
+204.12.192.222 gew1-spclient.spotify.com
+204.12.192.222 spclient.wg.spotify.com
+204.12.192.222 api-partner.spotify.com
+204.12.192.222 aet.spotify.com
+204.12.192.222 www.spotify.com
+204.12.192.222 accounts.spotify.com
